@@ -1,5 +1,9 @@
 # Sistema de Gestão Completo (PHP) 💻
 
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-PHP%20%7C%20MySQL%20%7C%20MVC-blue)
+![Deploy](https://img.shields.io/badge/Deploy-Local%20(XAMPP)-orange)
+
 Este repositório contém o código-fonte do Projeto_completo.zip, um sistema web robusto focado no gerenciamento e controle de dados, desenvolvido em PHP com base na arquitetura MVC (Model-View-Controller) e integração segura com banco de dados.
 
 ## 📌 O que é este projeto?
